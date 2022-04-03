@@ -17,8 +17,11 @@ Sendo que o C:\logdns\logdns.txt é o caminho que está o log do servidor DNS e 
 
 .\dns.ps1 -PathLog C:\logdns\logdns.txt -String crypto
 
+![Captura de tela de 2022-04-02 22-45-40](https://user-images.githubusercontent.com/24979677/161408157-93440aac-1a87-4dc4-b0b3-60ef86ca924f.png)
 
 # Observação  
 Script foi testado somente no Windows Server 2012 R2 Datacenter  
 
 Ideias e melhorias são bem vindas
+
+
